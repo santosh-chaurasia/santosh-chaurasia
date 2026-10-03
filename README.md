@@ -28,4 +28,4 @@ Data Science (M.Sc.) • Machine Learning fundamentals • Advanced React
 - 💼 LinkedIn: [linkedin.com/in/santoshchaurasia05](https://linkedin.com/in/santoshchaurasia05)
 - 📧 Email: amsantoshchaurasia@gmail.com
 
-💬 Ask me about: SQL, Excel, Power BI, Python
+🔎 Open to Junior Data Analyst opportunities
