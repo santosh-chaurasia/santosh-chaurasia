@@ -12,12 +12,13 @@ I'm an IT graduate (B.Sc. IT, University of Mumbai, CGPA 8.70) from Panvel, Maha
 - **Job simulations:** Deloitte, Tata and Accenture (via Forage), TCS iON Career Edge
 
 ## 🛠️ Tech Stack
-**Data:** Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (MySQL, Oracle SQL) • Advanced Excel • Power BI
-**Web:** React.js • JavaScript • Tailwind CSS • Firebase
-**Tools:** Git • GitHub • VS Code
+- **Data:** Python (Pandas, NumPy, Matplotlib, Seaborn) • SQL (MySQL, Oracle SQL) • Advanced Excel • Power BI
+- **Web:** React.js • JavaScript • Tailwind CSS • Firebase
+- **Tools:** Git • GitHub • VS Code
 
 ## 🚀 Featured Projects
-**[AI-Powered Portfolio Management System](https://github.com/santosh-chaurasia/my-portfolio)** — [Live site](https://santoshchaurasia.vercel.app)
+**[AI-Powered Portfolio Management System](https://github.com/santosh-chaurasia/my-portfolio)** | [Live site](https://santoshchaurasia.vercel.app)
+
 A responsive portfolio built with React, Vite, Tailwind CSS and Firebase, with an admin panel to update content without touching code and an AI chatbot (Gemini API) that answers questions from portfolio data.
 
 ## 🌱 Currently Learning
