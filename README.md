@@ -1,8 +1,8 @@
-# Hi, I'm Santosh Chaurasia 👋
++++# Hi, I'm Santosh Chaurasia 👋
 
 **Aspiring Data Analyst** | M.Sc. Data Science student | SQL • Python • Excel • Power BI
 
-I'm an IT graduate (B.Sc. IT, University of Mumbai, CGPA 8.70) from Panvel, Maharashtra, currently pursuing an M.Sc. in Data Science. I enjoy turning raw data into clear insights and dashboards, and I also build modern web apps with React.
+I'm an IT graduate (B.Sc. IT, University of Mumbai, CGPA 8.70) from Navi Mumbai, Maharashtra, currently pursuing an M.Sc. in Data Science. I enjoy turning raw data into clear insights and dashboards, and I also build modern web apps with React.
 
 ## 💼 Experience
 - **IT Helpdesk Executive**, Allied Digital Services Ltd. (Smart City control room, Taloja MIDC): incident and ticket handling, network and device monitoring, and reporting with Excel
